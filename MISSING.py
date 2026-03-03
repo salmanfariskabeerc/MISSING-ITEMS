@@ -12,7 +12,7 @@ st.set_page_config(page_title="Missing Items System", layout="wide")
 # ==========================================
 # GOOGLE SHEETS SETUP
 # ==========================================
-SHEET_URL = "YOUR_GOOGLE_SHEET_URL"
+SHEET_URL = "https://docs.google.com/spreadsheets/d/1XueNrQfaWitc0c21UmF2HH21aZFVVTzxufvAHYdbzV8/edit?gid=0#gid=0"
 MISSING_SHEET_NAME = "MissingItems"
 
 try:
